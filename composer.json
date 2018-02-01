@@ -1,5 +1,5 @@
 {
-  "name": "lendable/visitor-tracking-bundle",
+  "name": "kabuto/visitor-tracking-bundle",
   "type": "symfony-bundle",
   "description": "visitor tracking bundle",
   "keywords": [
@@ -16,7 +16,7 @@
   ],
   "require": {
     "php": ">=5.6",
-    "symfony/framework-bundle": "~2.8|~3.0",
+    "symfony/framework-bundle": "~2.8|~3.0|^4.0",
     "doctrine/doctrine-bundle": "~1.6",
     "doctrine/orm": "~2.1",
     "stof/doctrine-extensions-bundle": "*"
